@@ -1,0 +1,2 @@
+<?php
+  echo "TESTAR - VOLTAR DIRETÓRIOS (PASTAS)";
